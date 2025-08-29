@@ -26,7 +26,7 @@ function ExpenseTracker() {
   return (
     <div className="expense-tracker">
       <h2>Expense Tracker</h2>
-      <h3>Powered by Aniket</h3>
+      <h3>Powered with Aniket</h3>
       <form onSubmit={handleAddExpense}>
         <div className="form-control">
           <label htmlFor="description">Description:</label>
